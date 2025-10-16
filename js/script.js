@@ -1,1 +1,0 @@
-console.log('Mitet keresel te itt he ')

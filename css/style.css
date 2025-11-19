@@ -191,3 +191,17 @@ ol, ul {
     margin: 0;
     padding: 0;
 }
+
+.home{
+    background-image: url("../img/aboutTrailersMaster-img0-3.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.cim{
+    color: white;
+    font-size: 150px;
+    text-align: center;
+    text-shadow: 4px 4px black;
+
+}

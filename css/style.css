@@ -202,11 +202,11 @@ ol, ul {
 
 .cim{
     color: white;
-    font-size: 150px;
     text-align: center;
     text-shadow: 4px 4px black;
     max-width: 40%;
 }
+
 
 .dark {
 	background: #110f16;
